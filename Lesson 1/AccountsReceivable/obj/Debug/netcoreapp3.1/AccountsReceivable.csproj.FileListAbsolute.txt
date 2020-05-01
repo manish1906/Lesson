@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.deps.json
+C:\Users\hp\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\hp\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.pdb
+C:\Users\hp\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfo.cs
+C:\Users\hp\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\hp\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.pdb

@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.exe
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.deps.json
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.runtimeconfig.json
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.runtimeconfig.dev.json
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.dll
+C:\Users\hp\source\repos\GenericStack\bin\Debug\netcoreapp3.1\GenericStack.pdb
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.AssemblyInfo.cs
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.dll
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.pdb
+C:\Users\hp\source\repos\GenericStack\obj\Debug\netcoreapp3.1\GenericStack.genruntimeconfig.cache

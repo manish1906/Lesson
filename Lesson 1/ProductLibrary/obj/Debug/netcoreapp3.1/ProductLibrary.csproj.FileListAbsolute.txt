@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.deps.json
+C:\Users\hp\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\hp\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.pdb
+C:\Users\hp\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\hp\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.pdb

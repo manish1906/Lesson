@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.deps.json
+C:\Users\hp\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.dll
+C:\Users\hp\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.pdb
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.AssemblyInfo.cs
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.dll
+C:\Users\hp\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.pdb
