@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.exe
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.deps.json
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.runtimeconfig.json
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.dll
+C:\Users\hp\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.pdb
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.AssemblyInfo.cs
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.dll
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.pdb
+C:\Users\hp\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.genruntimeconfig.cache
