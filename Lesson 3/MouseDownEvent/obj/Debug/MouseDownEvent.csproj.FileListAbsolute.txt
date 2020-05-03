@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\MouseDownEvent\bin\Debug\MouseDownEvent.exe.config
+C:\Users\hp\source\repos\MouseDownEvent\bin\Debug\MouseDownEvent.exe
+C:\Users\hp\source\repos\MouseDownEvent\bin\Debug\MouseDownEvent.pdb
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.Form1.resources
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.Properties.Resources.resources
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.exe
+C:\Users\hp\source\repos\MouseDownEvent\obj\Debug\MouseDownEvent.pdb
